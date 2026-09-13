@@ -1,0 +1,23 @@
+{
+  "source": "https://ph-mpl.com/schedule",
+  "season": "MPL Philippines Season 18",
+  "verified": true,
+  "known_upcoming_as_of": "2026-09-13",
+  "matches": [
+    {
+      "date": "2026-09-13",
+      "time": "17:00",
+      "team_a": "TNC",
+      "team_b": "OMG",
+      "best_of": 3
+    },
+    {
+      "date": "2026-09-13",
+      "time": "19:30",
+      "team_a": "FLCN",
+      "team_b": "RORA",
+      "best_of": 3
+    }
+  ],
+  "note": "Reference only. Fetch official schedule before treating it as live data."
+}
